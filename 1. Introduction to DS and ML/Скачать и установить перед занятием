@@ -1,3 +1,4 @@
 1.2. Python, Git
 − дистрибутив Python с библиотеками и Jupyter Notebook. Версия 3.6: https://www.continuum.io/downloads
 − Git: https://git-scm.com/download
+− для практического задания понадобятся также файлы из репозитория: https://github.com/kpimaker/telegram-notifier
